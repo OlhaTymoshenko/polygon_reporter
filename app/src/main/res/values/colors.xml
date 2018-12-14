@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <color name="bg_entry_button_pressed">#ffa000</color>
+
+    <color name="map_polygon_stroke_blue">#64b5f6</color>
+    <color name="map_polygon_fill_blue">#7f64b5f6</color>
+    <color name="map_marker_fill_blue">#64b5f6</color>
+    <color name="map_marker_stroke_blue">#2196f3</color>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <size android:width="16dp" android:height="16dp"/>
+    <solid android:color="@color/map_marker_fill_blue"/>
+    <stroke android:width="1dip" android:color="@color/map_marker_stroke_blue"/>
+</shape>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Polygon Reporter</string>
+
+    <string name="entry__button_title">Приступить</string>
+
+    <string name="main__dialog_message">Создать полигон?</string>
+    <string name="main__dialog_positive_button">Создать</string>
+    <string name="main__dialog_negative_button">Отмена</string>
+    <string name="main__edit_polygon_message">Выберите точки для создания полигона</string>
+    <string name="main__error__area_invalid_shape">Некорректная форма полигона</string>
+
+    <string name="report__title">Создание отчета</string>
+    <string name="report__title_done">Готово</string>
+    <string name="report__hint_date">Дата</string>
+    <string name="report__hint_note">Примечание</string>
+    <string name="report__error_invalid_date">Выберите дату не старше недели</string>
+
+    <string name="location_error__services_disabled">Службы определения местоположения отключены. Приложение может работать некорректно</string>
+    <string name="location_error__permission_not_granted">Разрешение на определение местоположения отклонено. Приложение может работать некорректно</string>
+</resources>

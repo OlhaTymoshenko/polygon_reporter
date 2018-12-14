@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common__vertical_margin">100dp</dimen>
+    <dimen name="common__horizontal_margin">32dp</dimen>
+    <dimen name="fab__margin">16dp</dimen>
+    <dimen name="map_polygon_stride_width">1dp</dimen>
+</resources>
